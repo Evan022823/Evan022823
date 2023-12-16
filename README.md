@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&lines=Hello%20There!%2C+I'm+Evan_Justine!+;I'm+from+the+Philippines.+;I'm+a+FrontEnd+Developer.+)
 <!--
 **Evan022823/Evan022823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
